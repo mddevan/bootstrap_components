@@ -1,0 +1,17 @@
+.custom-slides {
+    width: 70%;
+    margin: 0 auto;
+}
+
+header nav {
+    background-color: darkseagreen;
+}
+
+header nav ul li a {
+    color: darkblue !important;
+    font-size: 20px;
+}
+
+.alag {
+    font-size: 20px;
+}
